@@ -9,9 +9,9 @@ catálogo e avaliação.
 A aplicação utiliza a api do OMDB para obter informações dos filmes e séries, e utiliza o google firebase para autenticação e para armazenar as informações do usuário.
 
 ## Para Executar:
-- abre terminal de comando ou powershell no diretório do projeto e execute os comandos:
-- npm install
+- abra o shell no diretório do projeto no Replit e execute o comando:
 - npm start
+
 
 ## 1. Interfaces
 
