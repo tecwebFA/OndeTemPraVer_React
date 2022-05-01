@@ -1,0 +1,12 @@
+.info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 165px;
+    padding-left: 165px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    box-sizing: border-box;
+    border-radius: 16px;
+}

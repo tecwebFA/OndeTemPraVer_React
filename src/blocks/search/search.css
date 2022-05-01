@@ -1,0 +1,11 @@
+.search {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 660px;
+    position: relative;
+    justify-content: space-between;
+    margin-right: auto;
+    margin-left: auto;
+}
+

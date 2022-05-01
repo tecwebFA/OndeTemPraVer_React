@@ -1,0 +1,12 @@
+.info__actors {
+    display: block;
+    max-width: 635px;
+    width: 100%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #1B1D1C;
+    margin: 0;
+    text-align: start;
+}

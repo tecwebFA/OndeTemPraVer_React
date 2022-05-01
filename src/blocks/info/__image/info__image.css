@@ -1,0 +1,6 @@
+.info__image {
+    width: 348px;
+    height: 544px;
+    border-radius: 8px;
+    object-fit: cover;
+}

@@ -1,0 +1,5 @@
+.info__content {
+    display: flex;
+    flex-direction: row;
+    gap: 127px;
+}

@@ -1,0 +1,14 @@
+.header__title {
+    display: block;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 66px;
+    /* identical to box height */
+    color: #000000;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}

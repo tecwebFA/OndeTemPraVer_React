@@ -1,0 +1,10 @@
+.main__content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 55px;
+    width: 100%;
+    padding-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}

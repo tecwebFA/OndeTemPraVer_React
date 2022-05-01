@@ -1,0 +1,12 @@
+.info__description {
+    display: block;
+    max-width: 635px;
+    width: 100%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    color: #1B1D1C;
+    margin: 0;
+}

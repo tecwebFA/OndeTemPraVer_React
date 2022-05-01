@@ -1,0 +1,9 @@
+.error__text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 90px;
+    color: #1B1D1C;
+    max-width: 635px;
+    margin: 0;
+}

@@ -1,0 +1,52 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+
+@import url(./blocks/page/page.css);
+
+@import url(./blocks/link/link.css);
+
+@import url(./blocks/accent/accent.css);
+
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__title/header__title.css);
+
+@import url(./blocks/search/search.css);
+@import url(./blocks/search/__input/search__input.css);
+@import url(./blocks/search/__icon/search__icon.css);
+@import url(./blocks/search/__button/search__button.css);
+
+@import url(./blocks/main/main.css);
+@import url(./blocks/main/__content/main__content.css);
+
+@import url(./blocks/card/card.css);
+@import url(./blocks/card/__image/card__image.css);
+@import url(./blocks/card/__title/card__title.css);
+@import url(./blocks/card/__details/card__details.css);
+@import url(./blocks/card/__rating/card__rating.css);
+@import url(./blocks/card/__rating-wrapper/card__rating-wrapper.css);
+
+@import url(./blocks/info/info.css);
+@import url(./blocks/info/__rating/info__rating.css);
+@import url(./blocks/info/__title/info__title.css);
+@import url(./blocks/info/__image/info__image.css);
+@import url(./blocks/info/__content/info__content.css);
+@import url(./blocks/info/__icon/info__icon.css);
+@import url(./blocks/info/__text/info__text.css);
+@import url(./blocks/info/__container/info__container.css);
+@import url(./blocks/info/__wrapper/info__wrapper.css);
+@import url(./blocks/info/__description/info__description.css);
+@import url(./blocks/info/__actors/info__actors.css);
+@import url(./blocks/info/__return/info__return.css);
+@import url(./blocks/info/__stickers/info__stickers.css);
+@import url(./blocks/info/__rating-number/info__rating-number.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__caption/footer__caption.css);
+
+@import url(./blocks/not-found/not-found.css);
+@import url(./blocks/not-found/__text/not-found__text.css);
+
+@import url(./blocks/error/error.css);
+@import url(./blocks/error/__text/error__text.css);
+
+@import url(./blocks/loader/loader.css);

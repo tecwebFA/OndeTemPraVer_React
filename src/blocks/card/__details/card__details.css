@@ -1,0 +1,17 @@
+.card__details {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-left: 8px;
+    margin-top: 0;
+    margin-bottom: 0;
+    transition: filter 200ms linear, transform 200ms linear;
+    justify-self: end;
+}
+
+.card__details:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
